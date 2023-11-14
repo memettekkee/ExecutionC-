@@ -1,0 +1,10 @@
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.exe.config
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.exe
+C:\Users\Mamet\source\repos\PerformanceExe\bin\Debug\PerformanceExe.pdb
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.AssemblyReference.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.Properties.Resources.resources
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.GenerateResource.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.csproj.CoreCompileInputs.cache
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.exe
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.pdb
+C:\Users\Mamet\source\repos\PerformanceExe\obj\Debug\PerformanceExe.Form1.resources
